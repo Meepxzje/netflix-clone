@@ -1,0 +1,11 @@
+.no-support-mobile {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-support-mobile img {
+    width: 80%;
+}
